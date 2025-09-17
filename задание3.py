@@ -1,0 +1,5 @@
+a = int(5)
+print(a * 100)
+print(a * 10)
+print(a * 1000)
+print(a / 1609)
